@@ -4051,4 +4051,60 @@
           href="DataObject_id-d6d748fa07d84ecba0642d398f19b4db.xml#id-d6d748fa07d84ecba0642d398f19b4db"/>
     </children>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-e57af28af787499a9209f4164c951542"
+      name="knfrn"
+      textAlignment="1">
+    <bounds
+        x="456"
+        y="1452"
+        width="361"
+        height="454"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-9c672f79b9a040b7bd075aae485eea3c">
+      <bounds
+          x="24"
+          y="36"
+          width="168"
+          height="180"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-bcf73e21b0f94f51b24de146e38d5276"
+          textAlignment="1"
+          content="Наименования проектов / объектов, на которых возникают РОА и РБП &#xD;&#xA;">
+        <bounds
+            x="24"
+            y="36"
+            width="121"
+            height="97"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:DataObject"
+          href="DataObject_id-17c599cfdd3948f880a1504268cb7565.xml#id-17c599cfdd3948f880a1504268cb7565"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-98bb9cb41e974382a0d33d1192ce011f">
+      <bounds
+          x="36"
+          y="252"
+          width="169"
+          height="180"/>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="id-26a0d64272b7405dbf3deddce0378b81"
+          textAlignment="1">
+        <bounds
+            x="24"
+            y="72"
+            width="121"
+            height="73"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:DataObject"
+          href="DataObject_id-81cd973ef63c4d67bfc01abd18f039ed.xml#id-81cd973ef63c4d67bfc01abd18f039ed"/>
+    </children>
+  </children>
 </archimate:ArchimateDiagramModel>
